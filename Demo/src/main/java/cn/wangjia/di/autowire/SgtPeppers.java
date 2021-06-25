@@ -7,11 +7,11 @@ import org.springframework.stereotype.Component;
  * @version 1.0
  * @date 2021/6/4
  */
-@Component
+//@Component
 public class SgtPeppers implements CompactDisc {
     private String  title =  "漫步人生路";
     private String  artist =  "邓丽君" ;
-    public void play() {
+    public void playTrack(int i) {
        System.out.println("play the"+title +"by" +artist);
 
     }

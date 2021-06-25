@@ -7,7 +7,7 @@ package cn.wangjia.di.autowire;
  */
 public interface CompactDisc {
 
-    void play();
+    void playTrack(int i);
 
 
 }

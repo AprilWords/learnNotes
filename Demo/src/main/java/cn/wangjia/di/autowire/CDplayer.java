@@ -29,6 +29,6 @@ public class CDplayer implements MediaPlayer {
     }
 
     public void play() {
-        cd.play();
+        cd.playTrack(1);
     }
 }

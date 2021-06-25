@@ -1,6 +1,5 @@
 package cn.wangjia.Proxy;
 
-import cn.wangjia.Copy.DeepCopy;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationHandler;
