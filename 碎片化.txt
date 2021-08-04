@@ -1,0 +1,107 @@
+E-S 信息储存在内存中，重启则丢失
+
+Eureka配置
+	1.服务注册配置
+		Client注册时机:1.服务启动完成后通过statusChangeListener监听器回调机制完成服务的首次注册
+			           2.向eureka-server发送心跳时，如果返回404，则重新向eureka-server发起注册（例如重启eurekaserver，所有注册信息丢失
+	2.服务续约配置
+	3.拉取注册信息fetch-registry 
+		时机:服务启动时会从eureka-server拉取全量注册信息，然后缓存在内存
+			 定时任务每30s从eureka-server拉取注册信息，增量更新本地缓存
+	7.服务下线
+		服务正常关闭主动下线
+		服务异常关闭，由eureka-server的EvictionTask任务下线
+		异常下线机制:	EvictionTask默认每分钟执行一次，每次执行会扫描注册表，如果某个实例90s（官方实现有bug，其实是180s）没有心跳，则会下线该实例。每次最大下线15%实例(自我保护机制)
+	8.自我保护机制
+		1.每分钟续约阈值计算  P.S.总共有10个实例，心跳间隔30s，阈值 0.85，那么每分钟续约阈值 = 60 / 30 * 10 * 0.85 = 17
+	9.集群复制原理
+		1.多个Eureka-server节点构成，各个节点平等 通过复制来同步 注册，续约，下线信息。
+		2.通过isReplication字段来区分是客户端还是其他集群节点的请求
+		3.将自身注册到集群中，拉取注册信息，保证注册信息同步。
+eureka:
+	client:
+		register-with-eureka: true #必须开启注册才有心跳
+		fetch-registry: true
+		registry-fetch-interval-seconds: 30
+	instance:
+		lease-renewal-interval-in-seconds: 30
+eureka:
+	server:
+		enable-self-preservation: true
+		renewal-percent-threshold: 0.85
+		renewal-threshold-update-interval-ms: 900000 #15分钟
+********************************************************************************************************************************************************
+1.代理类的生成()
+2.Proxy(InvocationHandler h)代理类调用方法时通过 super.h.invoke(Object proxy, Method method, Object[] args())
+
+ CGLib创建的动态代理对象性能比JDK创建的动态代理对象的性能高，但时间久，所以对于单例的对象，因为无需频繁创建对象，用CGLib合适一些。由于CGLib由于是采用动态创建子类的方法，对于final方法，无法进行代理。
+ 
+ 
+3.AOP 静态代理(aop框架提供的命令，编译阶段生成代理类)  动态代理(cglib jdk运行时增强)
+AOP用来封装横切关注点，具体可以在下面的场景中使用
+
+Authentication 权限
+Caching 缓存
+Context passing 内容传递
+Error handling 错误处理
+Lazy loading 懒加载
+Debugging 调试
+logging, tracing, profiling and monitoring 记录跟踪 优化 校准
+Performance optimization 性能优化
+Persistence 持久化
+Resource pooling 资源池
+Synchronization 同步
+Transactions 事务
+方面（Aspect） 
+连接点（Joinpoint） 
+通知（Advice advice: BeforeAdvice, AfterAdvice, ThrowAdvice和DynamicIntroductionAdvice）
+切入点（Pointcut）
+引入（Introduction）
+织入（Weaving）
+*********************************************************************
+sql
+函数名(列名) sum/avg/min/max/count/distinct/
+ 
+*********************************************************************
+接口幂等性实现:
+1.校验token
+2.数据库去重表
+ 
+ 
+ 
+*****************************************************************************
+1.分工:
+Executor
+Fork/Join Future
+生产者 - 消费者、Thread-Per-Message、Worker Thread
+
+2.同步:(任务之间的依赖)
+CountDownLatch、CyclicBarrier、Phaser、 Exchanger
+解决通用方案:管程解决并发问题的通用模型
+3.互斥
+
+可见性 有序性  原子性
+	1.锁:性能不同按场景分 ReadWriteLock、StampedLock （性能问题+死锁问题）
+	2.原子类
+	3.不共享变量或者变量只允许读  Copy-on-write   final ThreadLocal	
+ 
+4.管程:(管理共享变量以及对共享变量操作的过程，让它们支持并发  Java领域的语言，就是管理类的状态变量，让这个类是线程安全的)
+
+synchronized关键字和wait()、notify()、notifyAll()
+Monitor管程
+Hasen模型
+Hoare模型
+MESA
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
