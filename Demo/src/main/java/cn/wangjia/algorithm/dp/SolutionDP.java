@@ -100,17 +100,20 @@ public class SolutionDP {
 
     }
     /**
+     * [a1,a2,a3,a4....an]
      * 1.dp[i]为第i天卖出的最大利润
-     * 2.关系式 dp[i] = dp[i-1] +nums[i]-nums[i-1]
+     * 2.关系式 dp[i] = nums[i]>nums[i-1]  ? dp[i-1] +(nums[i]-nums[i-1]):dp[i-1]
      *
      *
      */
     public static int maxProfit(int[] prices) {
         int[] dp = new int[prices.length];
         dp[0] = 0;
+        dp[1] =prices[2];
+
         for(int i=1;i<prices.length;i++){
 
-                dp[i] = dp[i-1] +prices[i]-prices[i-1];
+                dp[i] = dp[i-1] + prices[i] - prices[i-1];
 
 
         }

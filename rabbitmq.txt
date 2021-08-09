@@ -1,0 +1,180 @@
+shufafin
+
+
+1.shufafin-api-settle
+		
+		数据验签
+		es日志记录->mqSend->mqReceiver->es接口
+		接口流量速率限制 ratelimitj
+		rdisson并发控制
+		实际调用
+
+
+	1.shufafin-mq-pay-send
+		convertSendAndReceive(…)：可以同步消费者。使用此方法，当确认了所有的消费者都接收成功之后，才触发另一个convertSendAndReceive(…)，也就是才会接收下一条消息。RPC调用方式。
+		convertAndSend(…)：使用此方法，交换机会马上把所有的信息都交给所有的消费者，消费者再自行处理，不会因为消费者处理慢而阻塞线程。
+		mq: message-> exchange->routing->queues
+		队列以下属性：
+		a) Exclusive：排他队列，如果一个队列被声明为排他队列，该队列仅对首次声明它的连接可见，并在连接断开时自动删除。这里需要注意三点：其一，排他队列是基于连接可见的，同一连接的不同信道是可以同时访问同一个连接创建的排他队列的。其二，“首次”，如果一个连接已经声明了一个排他队列，其他连接是不允许建立同名的排他队列的，这个与普通队列不同。其三，即使该队列是持久化的，一旦连接关闭或者客户端退出，该排他队列都会被自动删除的。这种队列适用于只限于一个客户端发送读取消息的应用场景。
+		b) Auto-delete:自动删除，如果该队列没有任何订阅的消费者的话，该队列会被自动删除。这种队列适用于临时队列。
+		c) Durable:持久化，这个会在后面作为专门一个章节讨论。
+		d) 其他选项，例如如果用户仅仅想查询某一个队列是否已存在，如果不存在，不想建立该队列，仍然可以调用queue.declare，只不过需要将参数passive设为true，传给queue.declare，如果该队列已存在，则会返回true；如果不存在，则会返回Error，但是不会创建新的队列。
+		
+		
+		1.1生产者发送消息 Exchange+Binding->queues
+			Exchange(ExchangeName，ExchangeType,Durable)
+			ExchangeName:ExchangeName是该Exchange的名字，该属性在创建Binding和生产者通过publish推送消息时需要指定
+			ExchangeType: direct fanout topic
+			Durable是该Exchange的持久化属性
+			生产者在发送消息时，都需要指定一个RoutingKey和Exchange，Exchange在接到该RoutingKey以后，会判断该ExchangeType:
+
+							 a) 如果是Direct类型，则会将消息中的RoutingKey与该Exchange关联的所有Binding中的BindingKey进行比较，如果相等，则发送到该Binding对应的Queue中。
+							 b) 如果是  Fanout  类型，则会将消息发送给所有与该  Exchange  定义过  Binding  的所有  Queues  中去，其实是一种广播行为。
+							 c)如果是Topic类型，则会按照正则表达式，对RoutingKey与BindingKey进行匹配，如果匹配成功，则发送到对应的Queue中。
+			
+		1.2消费者获取消息
+			  a)  一种是通过basic.consume命令，订阅某一个队列中的消息,channel会自动在处理完上一条消息之后，接收下一条消息。（同一个channel消息处理是串行的）。除非关闭channel或者取消订阅，否则客户端将会一直接收队列的消息。
+				 b)  另外一种方式是通过basic.get命令主动获取队列中的消息，但是绝对不可以通过循环调用basic.get来代替basic.consume，这是因为basic.get RabbitMQ在实际执行的时候，是首先consume某一个队列，然后检索第一条消息，然后再取消订阅。如果是高吞吐率的消费者，最好还是建议使用basic.consume。
+
+		1.3持久化
+		 通过设置Exchange和MessageQueue的durable属性为true  产者在发送消息的时候，将delivery mode设置为2  持久化对性能有影响 
+		1.4消息确认机制
+		BindingBuilder.bind(queueConfig.secondQueue()).to(exchangeConfig.directExchange()).with(RabbitMqConfig.ROUTING_KEY_2);
+		关于 msgSendConfirmCallBack 和 msgSendReturnCallback 的回调说明：
+		1.如果消息没有到exchange,则confirm回调,ack=false
+		2.如果消息到达exchange,则confirm回调,ack=true
+		3.exchange到queue成功,则不回调return
+		4.exchange到queue失败,则回调return(需设置mandatory=true,否则不回调,消息就丢了)
+		标记消息  correlationData	
+2.es：/es/saveLogInfo   /es/listEsLogInfo
+3.trans-core
+ 执行器
+ Txn02a1a1001Config->IBaseFlowConfig 
+ Acotor->IActor
+
+
+
+
+PNG格式
+(png文件标志8) +3个以上数据块
+
+IHDR文件头数据块 13
+IDAT图像数据块
+IEND图像结束数据
+
+
+
+分层思想
+				问题: 排序 0-1背包 。。。。。
+	  算法和数据结构：具体实现及优化
+				语言层
+		编译器/解释器
+			操作系统
+				ISA
+	组成原理和体系结构。这一层要做的事情是借助数字电路给它提供的功能（组合电路和锁存器），来设计一个能实现某种ISA的CPU一开始学单周期CPU的实现（取指、译码、执行……），为了提高效率又提出了流水线的实现
+	
+	数字电路
+	模拟电路
+
+
+物理结构 与 逻辑结构
+物理结构:数据对象中数据元素之间的相互关系
+		1.集合关系  众生平等
+		2.线性结构   一对一
+		3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

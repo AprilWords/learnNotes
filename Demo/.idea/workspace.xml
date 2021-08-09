@@ -1,7 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58972af5-f6a4-493a-929c-08a534c838e5" name="Default Changelist" comment="" />
+    <list default="true" id="d95a831b-c015-4882-b376-3bd955bb9ef7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/dp/SolutionDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/dp/SolutionDP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/sort/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/sort/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PFXTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Copy/CopyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Copy/DeepCopy$Body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Copy/DeepCopy$Head.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Copy/DeepCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Copy/DeepCopyE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/JOL/JolTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Proxy/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Proxy/IHello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Proxy/MyInvocationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Proxy/MyProxyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Proxy/MyProxyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Proxy/Proxy/Cglib/CglibProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Proxy/Proxy/Cglib/DoCGLib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/Proxy/Proxy/Cglib/Singer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/SubStringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/algorithm/dp/SolutionDP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/algorithm/recursive/Solution$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/algorithm/recursive/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/algorithm/sort/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/aop/CountsTrackConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/aop/Minstreal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/aop/TrackCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/BraveKnight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/DamselRescuingKnight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/Knight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/MediaPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/Quest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/RecuseDamselQuest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/autowire/BlankDisc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/autowire/CDplayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/autowire/CompactDisc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/autowire/SgtPeppers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/config/CDplayerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/config/KnightConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/di/quest/SlayDragonQuest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter3/DataSourceConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter3/aop/LogAspects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter3/aop/MainConfigOfAop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter3/aop/MathCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter3/aop/pointcut/Audience.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter3/aop/pointcut/CriticAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter3/aop/pointcut/DefaultEncoreable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter3/aop/pointcut/Encoreable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter3/aop/pointcut/EncoreableIntroducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter3/aop/pointcut/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter3/aop/pointcut/PerformacneConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter3/aop/pointcut/Performance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter5/SpittrWebApplicationIntialer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter5/config/RootConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter5/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter5/spitter/Respositorys/Spitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter5/spitter/Respositorys/SpitterRespository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter5/spitter/Respositorys/Spittle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter5/spitter/Respositorys/SpittleRespository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter5/spitter/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter5/spitter/controller/SpitterController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/spring/chapter5/spitter/controller/SpittleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wangjia/work/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AopParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/AopParam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/AopTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CDplayerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CDplayerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Enhacnced.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Enhacnced.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/IOCTestAOP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/IOCTestAOP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/KnightTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/KnightTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Spitter/HomeControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Spitter/HomeControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Spitter/SpitterControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Spitter/SpitterControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Spitter/SpittleControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Spitter/SpittleControllerTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,122 +87,66 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="275" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Demo" />
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PFXTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/dp/SolutionDP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="165" column="30" lean-forward="true" selection-start-line="165" selection-start-column="30" selection-end-line="165" selection-end-column="30" />
+            <state relative-caret-position="280">
+              <caret line="103" column="25" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/jvm/HeapOOM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#254#265#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/jvm/JavaVMStackSOF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/jvm/RuntimeConstantPoolOOM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#242#250#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/dp/SolutionDP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="109" column="18" lean-forward="true" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
-              <folding>
-                <element signature="method#jump#0;class#SolutionDP#0" />
-                <element signature="method#move#0;class#SolutionDP#0" />
-                <element signature="method#maxSubArray#0;class#SolutionDP#0" />
-                <element signature="method#max#0;class#SolutionDP#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/sort/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/work/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            <state relative-caret-position="358">
+              <caret line="19" column="45" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="19" selection-end-column="45" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/recursive/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/src.zip!/java/util/HashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2852">
-              <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18042">
-              <caret line="627" column="17" selection-start-line="627" selection-start-column="17" selection-end-line="627" selection-end-column="40" />
-              <folding>
-                <element signature="e#19072#19073#0" expanded="true" />
-                <element signature="e#19130#19131#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/src.zip!/java/io/FileInputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6448">
-              <caret line="232" column="39" selection-start-line="232" selection-start-column="33" selection-end-line="232" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50499">
-              <caret line="1696" column="15" selection-start-line="1696" selection-start-column="15" selection-end-line="1696" selection-end-column="15" />
-              <folding>
-                <element signature="e#66457#66458#0" expanded="true" />
-                <element signature="e#66495#66496#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/SubStringTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#merge#0;class#Solution#0" />
               </folding>
             </state>
           </provider>
@@ -136,84 +157,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>clone</find>
-      <find>getProxyClass</find>
-      <find>object</find>
-      <find>[]</find>
-      <find>profile</find>
-      <find>configureD</find>
-      <find>register</find>
-      <find>getInterceptors</find>
-      <find>test</find>
-      <find>spittleList</find>
-      <find>spittles</find>
-      <find>add</find>
-      <find>put</find>
-      <find>6</find>
-      <find>main</find>
-    </findStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/IOCTestAOP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/LogAspects.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/DataSourceConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/PerformacneConfig.java" />
-        <option value="$PROJECT_DIR$/src/test/java/IOCTestAOP.java" />
-        <option value="$PROJECT_DIR$/src/test/java/AopTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/di/config/CDplayerConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/aop/TrackCounter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/di/autowire/CompactDisc.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/di/autowire/SgtPeppers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/di/autowire/CDplayer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/di/autowire/BlankDisc.java" />
-        <option value="$PROJECT_DIR$/src/test/java/AopParam.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/pointcut/Encoreable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/pointcut/Performance.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/MainConfigOfAop.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/aop/CountsTrackConfig.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Enhacnced.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/pointcut/DefaultEncoreable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/pointcut/PerformacneConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/pointcut/EncoreableIntroducer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/pointcut/Movie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/pointcut/Audience.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/pointcut/CriticAspect.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/SpittrWebApplicationIntialer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/config/WebConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/config/RootConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/WEB-INF/views/home.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/Proxy/MyProxyTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Spitter/HomeControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Spitter/Spittle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Spitter/SpittleRespository.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Spitter/SpitterController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/controller/HomeController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/Respositorys/Spittle.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/WEB-INF/views/spittles.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/controller/SpittleController.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Spitter/SpittleControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/Respositorys/SpittleRespository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/Respositorys/SpitterRespository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/Respositorys/Spitter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/controller/SpitterController.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Spitter/SpitterControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/SubStringTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/JOL/JolTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/work/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PFXTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/recursive/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/sort/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/jvm/HeapOOM.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/jvm/JavaVMStackSOF.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/dp/SolutionDP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/jvm/RuntimeConstantPoolOOM.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/sort/Solution.java" />
       </list>
     </option>
   </component>
@@ -223,17 +181,14 @@
         <option name="userSettingsFile" value="D:\software\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="vmOptionsForImporter" value="-Xmx768m" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="59" />
-    <option name="width" value="1920" />
-    <option name="height" value="1040" />
+    <option name="x" value="-86" />
+    <option name="y" value="120" />
+    <option name="width" value="1918" />
+    <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -249,6 +204,17 @@
             <path>
               <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -280,16 +246,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wangjia" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wangjia" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
@@ -301,46 +257,24 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wangjia" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.40616247" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="cn.wangjia.spring.chapter3.aop.pointcut" />
-      <recent name="" />
-      <recent name="cn.wangjia.Proxy" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -354,13 +288,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="JolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.wangjia.JOL.JolTest" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="HeapOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wangjia.jvm.HeapOOM" />
       <module name="Demo" />
+      <option name="VM_PARAMETERS" value="-Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.wangjia.JOL.*" />
+          <option name="PATTERN" value="cn.wangjia.jvm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -368,14 +303,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PFXTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PFXTest" />
+    <configuration name="JavaVMStackSOF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wangjia.jvm.JavaVMStackSOF" />
       <module name="Demo" />
+      <option name="VM_PARAMETERS" value="-Xss128k" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wangjia.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RuntimeConstantPoolOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wangjia.jvm.RuntimeConstantPoolOOM" />
+      <module name="Demo" />
+      <option name="VM_PARAMETERS" value="-XX:PermSize=6M -XX:MaxPermSize=6M" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wangjia.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.wangjia.algorithm.sort.Solution" />
       <module name="Demo" />
       <extension name="coverage">
@@ -388,61 +344,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.wangjia.algorithm.recursive.Solution" />
-      <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.wangjia.algorithm.recursive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.wangjia.algorithm.dp.SolutionDP" />
-      <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.wangjia.algorithm.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.wangjia.work.Test" />
-      <module name="Demo" />
-      <option name="VM_PARAMETERS" value="-Xmx256m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.wangjia.work.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.JolTest" />
-      <item itemvalue="Application.PFXTest" />
+      <item itemvalue="Application.HeapOOM" />
+      <item itemvalue="Application.JavaVMStackSOF" />
+      <item itemvalue="Application.RuntimeConstantPoolOOM" />
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.SolutionDP" />
-      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.SolutionDP" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.PFXTest" />
-        <item itemvalue="Application.JolTest" />
+        <item itemvalue="Application.RuntimeConstantPoolOOM" />
+        <item itemvalue="Application.JavaVMStackSOF" />
+        <item itemvalue="Application.HeapOOM" />
       </list>
     </recent_temporary>
   </component>
@@ -451,91 +364,54 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="58972af5-f6a4-493a-929c-08a534c838e5" name="Default Changelist" comment="" />
-      <created>1621327011732</created>
+      <changelist id="d95a831b-c015-4882-b376-3bd955bb9ef7" name="Default Changelist" comment="" />
+      <created>1628062656709</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1621327011732</updated>
-      <workItem from="1621327014633" duration="21210000" />
-      <workItem from="1622429889256" duration="94725000" />
-      <workItem from="1624345509255" duration="88493000" />
-      <workItem from="1626054980384" duration="4042000" />
-      <workItem from="1626070063800" duration="11742000" />
-      <workItem from="1626414070588" duration="45995000" />
-      <workItem from="1627461545799" duration="30157000" />
+      <updated>1628062656709</updated>
+      <workItem from="1628062659597" duration="18825000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="SpittleControllerTest_shouldShowRecentSpittlesOne - 2021.06.28 at 19h 36m 43s.xml">
-      <configuration name="SpittleControllerTest.shouldShowRecentSpittlesOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpittleControllerTest_shouldShowRecentSpittlesOne - 2021.06.28 at 19h 37m 24s.xml">
-      <configuration name="SpittleControllerTest.shouldShowRecentSpittlesOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpittleControllerTest_shouldShowRecentSpittlesOne - 2021.06.28 at 19h 47m 49s.xml">
-      <configuration name="SpittleControllerTest.shouldShowRecentSpittlesOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpittleControllerTest_shouldShowRecentSpittlesOne - 2021.06.28 at 19h 47m 52s.xml">
-      <configuration name="SpittleControllerTest.shouldShowRecentSpittlesOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpittleControllerTest_shouldShowRecentSpittlesOne - 2021.06.28 at 19h 48m 19s.xml">
-      <configuration name="SpittleControllerTest.shouldShowRecentSpittlesOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpittleControllerTest_getOne - 2021.06.28 at 20h 18m 12s.xml">
-      <configuration name="SpittleControllerTest.getOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpittleControllerTest_getOne - 2021.06.28 at 20h 18m 35s.xml">
-      <configuration name="SpittleControllerTest.getOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpittleControllerTest_getOne - 2021.06.28 at 20h 21m 33s.xml">
-      <configuration name="SpittleControllerTest.getOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpitterControllerTest_one - 2021.06.28 at 20h 31m 47s.xml">
-      <configuration name="SpitterControllerTest.one" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpitterControllerTest_one - 2021.06.28 at 20h 32m 32s.xml">
-      <configuration name="SpitterControllerTest.one" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="296364000" />
+    <option name="totallyTimeSpent" value="18825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" sideWeight="0.5007924" side_tool="true" weight="0.29336187" />
-      <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49920762" visible="true" weight="0.29710922" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.503212" side_tool="true" weight="0.33636364" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49946466" weight="0.2556818" />
-      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.496788" weight="0.2284091" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49785867" weight="0.44545454" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="right" id="Database" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.24772727" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20340909" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.28181818" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32976446" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,669 +421,77 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/Proxy/MyProxyTest.java</url>
-          <line>46</line>
+          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/jvm/RuntimeConstantPoolOOM.java</url>
+          <line>20</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/Copy/DeepCopy.java</url>
-          <line>46</line>
+          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/sort/Solution.java</url>
+          <line>13</line>
           <properties />
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/CDplayerTest.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/IOCTestAOP.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/LogAspects.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/LogAspects.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/IOCTestAOP.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/AopTest.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/AopTest.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Enhacnced.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/aop/pointcut/Audience.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/AopTest.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Spitter/HomeControllerTest.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/PFXTest.java</url>
-          <line>152</line>
-          <properties />
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/controller/SpittleController.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Spitter/SpittleControllerTest.java</url>
-          <line>72</line>
-          <properties />
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Spitter/SpittleControllerTest.java</url>
-          <line>87</line>
-          <properties />
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/PFXTest.java</url>
-          <line>144</line>
-          <properties />
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/SubStringTest.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/PFXTest.java</url>
-          <line>88</line>
-          <properties />
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/PFXTest.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/PFXTest.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/PFXTest.java</url>
-          <line>166</line>
-          <properties />
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/PFXTest.java</url>
-          <line>170</line>
-          <properties />
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/dp/SolutionDP.java</url>
-          <line>62</line>
-          <properties />
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/dp/SolutionDP.java</url>
-          <line>58</line>
-          <properties />
-          <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/dp/SolutionDP.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/dp/SolutionDP.java</url>
-          <line>90</line>
-          <properties />
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/sort/Solution.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="94" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Demo$JavaVMStackSOF.ic" NAME="JavaVMStackSOF Coverage Results" MODIFIED="1628145349332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.wangjia.jvm.*</FILTER>
+    </SUITE>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>nums.length-1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>record[i][j]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>getAdd(arrayTemp)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Arrays.copyOfRange(nums,0,1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Arrays.copyOfRange(nums,0,2)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>getAdd(arrayTemp);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>getAdd(temp)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>path.exists()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>getAdd(nums)</expression-string>
+        <expression-string>nums.length</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.3.3/spring-test-5.3.3.jar!/org/springframework/test/web/servlet/setup/AbstractMockMvcBuilder.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/dp/SolutionDP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        <state relative-caret-position="280">
+          <caret line="103" column="25" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.3.3/spring-test-5.3.3.jar!/org/springframework/test/web/servlet/setup/MockMvcBuilders.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.9.RELEASE/spring-webmvc-4.3.9.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="145" column="29" selection-start-line="145" selection-start-column="29" selection-end-line="145" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.3.3/spring-test-5.3.3.jar!/org/springframework/test/web/servlet/setup/StandaloneMockMvcBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="334" column="63" selection-start-line="334" selection-start-column="48" selection-end-line="334" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/config/WebConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AopParam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/IOCTestAOP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="961">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CDplayerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="330" selection-start-line="330" selection-end-line="330" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter3/DataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/SpittrWebApplicationIntialer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Spitter/SpitterController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/WEB-INF/views/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" column="14" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.3/spring-context-5.3.3.jar!/org/springframework/ui/Model.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/WEB-INF/views/spittles.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/CoreMatchers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="312" column="69" selection-start-line="312" selection-start-column="64" selection-end-line="312" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.16.RELEASE/spring-test-4.3.16.RELEASE.jar!/org/springframework/test/web/servlet/MockMvc.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#4671#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.16.RELEASE/spring-test-4.3.16.RELEASE.jar!/org/springframework/test/web/servlet/ResultActions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Spitter/HomeControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/org/springframework/web/bind/annotation/RequestParam.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/Respositorys/SpittleRespository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/controller/SpittleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="51" column="22" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/WEB-INF/views/profile.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/Respositorys/SpitterRespository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.3/spring-core-5.3.3.jar!/org/springframework/lang/NonNull.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/Respositorys/Spitter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-186">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#812#813#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/controller/SpitterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Spitter/SpitterControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="185" selection-start-line="185" selection-end-line="185" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/spring/chapter5/spitter/Respositorys/Spittle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1147">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#970#971#0" expanded="true" />
-            <element signature="e#1001#1002#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Spitter/SpittleControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23219">
-          <caret line="800" column="6" selection-start-line="800" selection-start-column="6" selection-end-line="800" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3627">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/JOL/JolTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/jvm/HeapOOM.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2945">
-          <caret line="120" column="38" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
-          <folding>
-            <element signature="e#4139#4140#0" expanded="true" />
-            <element signature="e#4164#4165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="44" column="32" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109151">
-          <caret line="3592" selection-start-line="3592" selection-end-line="3592" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2852">
-          <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18042">
-          <caret line="627" column="17" selection-start-line="627" selection-start-column="17" selection-end-line="627" selection-end-column="40" />
-          <folding>
-            <element signature="e#19072#19073#0" expanded="true" />
-            <element signature="e#19130#19131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6448">
-          <caret line="232" column="39" selection-start-line="232" selection-start-column="33" selection-end-line="232" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../software/java/jdk1.8.0_101/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50499">
-          <caret line="1696" column="15" selection-start-line="1696" selection-start-column="15" selection-end-line="1696" selection-end-column="15" />
-          <folding>
-            <element signature="e#66457#66458#0" expanded="true" />
-            <element signature="e#66495#66496#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/SubStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#254#265#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PFXTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/jvm/JavaVMStackSOF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="165" column="30" lean-forward="true" selection-start-line="165" selection-start-column="30" selection-end-line="165" selection-end-column="30" />
+        <state relative-caret-position="325">
+          <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/jvm/RuntimeConstantPoolOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#242#250#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/work/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/recursive/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/sort/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/wangjia/algorithm/dp/SolutionDP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="109" column="18" lean-forward="true" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
+        <state relative-caret-position="358">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="19" selection-end-column="45" />
           <folding>
-            <element signature="method#jump#0;class#SolutionDP#0" />
-            <element signature="method#move#0;class#SolutionDP#0" />
-            <element signature="method#maxSubArray#0;class#SolutionDP#0" />
-            <element signature="method#max#0;class#SolutionDP#0" />
+            <element signature="method#merge#0;class#Solution#0" />
           </folding>
         </state>
       </provider>
@@ -1221,7 +505,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.40616247" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1233,7 +517,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.40616247" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1244,7 +528,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.40616247" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1256,7 +540,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.40616247" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1268,7 +552,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.40616247" />
+                <option value="0.2" />
                 <option value="0.6" />
               </list>
             </option>
@@ -1293,7 +577,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.40616247" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
